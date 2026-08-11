@@ -1,0 +1,20 @@
+{
+  "name": "kim.sia",
+  "version": "1.0.0",
+  "description": "classroom activity",
+  "homepage": "https://github.com/abigeyl19/kimmy#readme",
+  "bugs": {
+    "url": "https://github.com/abigeyl19/kimmy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abigeyl19/kimmy.git"
+  },
+  "license": "ISC",
+  "author": "Bayot,Kim Abigail",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
